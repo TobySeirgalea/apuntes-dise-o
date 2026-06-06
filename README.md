@@ -1,1 +1,1 @@
-# apuntes-dise-o
+# Apuntes sobre diseño
